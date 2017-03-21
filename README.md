@@ -1,2 +1,2 @@
 # Predicting-Student-Performance-Using-Machine-Learning-Analytics
- report will display analytics of machine learning algorithms.
+ Machine Learning methods can be implemented to predict the outcome using previously gathered information against new information. To display these methods, this research paper will demonstrate how they are used with a dataset named Student Performance which is a dataset of student achievements in two Portuguese secondary schools. The
